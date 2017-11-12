@@ -22,6 +22,7 @@ Both In Admin Page And Website
 * Get Comment Date -- OK
 * Get Comment Time -- OK
 
+See Demo at https://orangedbanana.com/
 
 == Installation ==
 
@@ -30,7 +31,7 @@ This section describes how to install the plugin and get it working.
 e.g.
 
 1. Upload \`Bangla Number And Month\` to the \`/wp-content/plugins/\` directory
-1. Activate Bangla Number And Month through the 'Plugins' menu in WordPress
+2. Activate Bangla Number And Month through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
