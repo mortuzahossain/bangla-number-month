@@ -45,7 +45,7 @@ The answer is no . All you have to do is active the plugin.
 
 = How much space it will take =
 
-Only < 2kb .
+Only < 2.1 kb .
 
 = Does it slow my site =
 
